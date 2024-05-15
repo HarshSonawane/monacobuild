@@ -97,8 +97,9 @@
 @import url('../fonts/gordita/stylesheet.css');
 @import url('../fonts/recoleta/stylesheet.css'); */
 /* @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap'); */
 
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@100;200;300;400;500;600;700;800&display=swap');
 /*----bootstrap css ----- */
 @import url('../vendor/bootstrap/css/bootstrap.min.css');
 /*------- Framework css -----------*/
@@ -345,8 +346,8 @@
   --text-color: #73737B;
   --text-light: #888888;
   --heading: #101621;
-  --blue-dark: #673695;
-  --red-light: #673695;
+  --blue-dark: #B88B2B;
+  --red-light: #B88B2B;
   --yellow-deep: #FFB840;
   --blue-light: black;
   --purple-blue: #655C97;
@@ -437,7 +438,7 @@ h6 {
 }
 
 .font-montserrat {
-  font-family: 'Montserrat', sans-serif !important;
+  font-family: 'Encode Sans SC', sans-serif !important;
 }
 
 .font-gilroy-bold {
@@ -16700,6 +16701,9 @@ body .theme-btn-thirteen:hover {
   font-weight: 900;
 }
 
+.fs-10 {
+  font-size: 12px;
+}
 
 .fs-12 {
   font-size: 12px;
@@ -16707,6 +16711,10 @@ body .theme-btn-thirteen:hover {
 
 .fs-14 {
   font-size: 14px;
+}
+
+.fs-15 {
+  font-size: 15px;
 }
 
 .fs-16 {
@@ -16767,7 +16775,7 @@ body .theme-btn-thirteen:hover {
 }
 
 .tabactive {
-  border-bottom: 3px solid #fff;
+  /* border-bottom: 3px solid #fff; */
   color: #fff;
   border-radius: 2px;
 }

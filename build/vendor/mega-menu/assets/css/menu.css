@@ -85,7 +85,7 @@
   display: block;
   color: #B88B2B;
   font-size: 16px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   position: relative;
   transition: all 0.3s ease-in-out;
 }
