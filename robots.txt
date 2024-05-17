@@ -1,0 +1,3 @@
+Sitemap: https://www.taskmo.com/sitemap.xml
+User-agent: *
+Allow: /
