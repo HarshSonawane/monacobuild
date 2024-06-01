@@ -6975,7 +6975,7 @@ body .theme-btn-thirteen:hover {
 /*------------------- Blog Pages ----------------*/
 .blog-page-bg {
   /* background: linear-gradient(45deg, #FFFBF2, #EDFFFD); */
-  padding: 50px 0 50px;
+  padding: 30px 0 30px;
   position: relative;
   z-index: 5;
 }
