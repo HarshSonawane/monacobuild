@@ -4591,6 +4591,10 @@
     font-size: 25px;
   }
 
+  .fs-12 {
+    font-size: 10px;
+  }
+
   .fs-30 {
     font-size: 22px;
   }  
@@ -4600,7 +4604,7 @@
   }
 
   .fs-20 {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .blog-sidebar-one .sidebar-categories ul li a {
@@ -4639,8 +4643,13 @@
   }
 
   .fs-20 {
-    font-size: 16px;
+    font-size: 18px;
   }
+
+  .fs-12 {
+    font-size: 10px;
+  }
+
 
   .blog-sidebar-one .sidebar-categories ul li a {
     font-family: 'Rubik', sans-serif;
@@ -4673,7 +4682,11 @@
   }
 
   .fs-20 {
-    font-size: 16px;
+    font-size: 18px;
+  }
+
+  .fs-12 {
+    font-size: 10px;
   }
 
   .block-style-thirteen {

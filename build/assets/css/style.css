@@ -124,7 +124,7 @@ h5,
 h6 {
 	font-family: var(--font-quicksand);
 	font-weight: 700;
-	line-height: 1.3;
+	line-height: 1;
 	color: var(--color-secondary);
 	margin: 0px;
 }
