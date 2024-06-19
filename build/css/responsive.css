@@ -1485,7 +1485,7 @@
   }
 
   .blog-page-bg {
-    padding: 50px 0 20px;
+    padding: 20px 0 20px;
   }
 
   .feature-blog-one.width-lg .post-meta p {
@@ -4591,13 +4591,21 @@
     font-size: 25px;
   }
 
+  .fs-60 {
+    font-size: 30px;
+  }
+
+  .fs-31 {
+    font-size: 17px;
+  }
+
   .fs-12 {
     font-size: 10px;
   }
 
   .fs-30 {
     font-size: 22px;
-  }  
+  }
 
   .fs-25 {
     font-size: 20px;
@@ -4634,9 +4642,18 @@
     font-size: 25px;
   }
 
+  .fs-60 {
+    font-size: 30px;
+  }
+
+
+  .fs-31 {
+    font-size: 17px;
+  }
+
   .fs-30 {
     font-size: 22px;
-  }  
+  }
 
   .fs-25 {
     font-size: 20px;
@@ -4673,9 +4690,18 @@
     font-size: 25px;
   }
 
+  .fs-60 {
+    font-size: 30px;
+  }
+
+
+  .fs-31 {
+    font-size: 17px;
+  }
+
   .fs-30 {
     font-size: 22px;
-  }  
+  }
 
   .fs-25 {
     font-size: 20px;

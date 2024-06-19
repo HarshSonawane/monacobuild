@@ -6975,7 +6975,7 @@ body .theme-btn-thirteen:hover {
 /*------------------- Blog Pages ----------------*/
 .blog-page-bg {
   /* background: linear-gradient(45deg, #FFFBF2, #EDFFFD); */
-  padding: 30px 0 30px;
+  padding: 20px 0 20px;
   position: relative;
   z-index: 5;
 }
@@ -16744,6 +16744,10 @@ body .theme-btn-thirteen:hover {
 
 .fs-30 {
   font-size: 30px;
+}
+
+.fs-31 {
+  font-size: 31px;
 }
 
 .fs-40 {
