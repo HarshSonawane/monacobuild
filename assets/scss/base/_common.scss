@@ -43,7 +43,7 @@ h5,
 h6 {
     font-family: $font-quicksand;
     font-weight: 600;
-    line-height: 1.3;
+    line-height: 1;
     color: $color-secondary;
     margin: 0px;
 
@@ -74,7 +74,7 @@ a {
 
 a,
 span {
-    display: inline-block;
+    // display: inline-block;
 }
 
 /*======= Common Classes =======*/
